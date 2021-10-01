@@ -1,0 +1,12 @@
+[submodule "vim/pack/bundle/start/vim-airline"]
+	path = vim/pack/bundle/start/vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "vim/pack/bundle/start/jedi-vim"]
+	path = vim/pack/bundle/start/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "vim/pack/bundle/start/ale"]
+	path = vim/pack/bundle/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "vim/pack/bundle/start/dracula"]
+	path = vim/pack/bundle/start/dracula
+	url = https://github.com/dracula/vim.git
