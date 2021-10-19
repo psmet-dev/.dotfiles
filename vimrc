@@ -3,6 +3,8 @@ let g:dracula_colorterm = 0
 syntax enable
 colorscheme dracula
 
+let g:airline_powerline_fonts = 1
+
 filetype plugin on
 filetype indent on
 
